@@ -1,2 +1,2 @@
-# Air-Quality-DataSet
-Holds UCI Air Quality data set
+# Student-Performance-Dataset
+Holds UCI Student Performance data set
