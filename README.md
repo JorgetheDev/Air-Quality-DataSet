@@ -23,8 +23,10 @@ Execute is the main file that will run the program
 -	It will ask for step size, iterations, and if you would like to view the graph that is in the document.
 -	Once given proper values, the program will do the rest
 -	Note – since it is a big dataset, it will take a couple seconds to finish
-
+General number of iterations was around 1000
+General learning rate was around 0.0001
 How to build and run
+Option 1:
 In order to build and run the program
 -	 Create a new project in an IDE, such as pycharm
 -	Place files in the directory
@@ -37,5 +39,9 @@ o	matplotlib
 o	this is the main python file
 -	the program will ask for iterations, learning rate and in the end will ask you if you would like to see the graph.
 -	Will also generate the log file in the local directory 
-
+Option 2:
+-	Upload files to google colab
+-	Copy and paste each file code onto separate code blocks
+-	Run from the execute block
+-	Notice – if choosing a high number of iterations, it takes a while to run on google colab
 
